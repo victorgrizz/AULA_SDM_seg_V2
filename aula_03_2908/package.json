@@ -1,7 +1,7 @@
 {
   "name": "y",
   "version": "1.0.0",
-  "description": "teste lerolero",
+  "description": "Bonus A1",
   "main": "teste.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
